@@ -1,6 +1,10 @@
 #include <iostream>
 #include <cstring>
 #include "parsexec.h"
+#include "parsexec.cpp"
+#include "locations.cpp"
+#include "locations.h"
+
 
 static char input[100] = "look Around";
 
